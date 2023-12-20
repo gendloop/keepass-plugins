@@ -1,0 +1,5 @@
+
+PROJECT_NAME=keepass-plugins
+keepass-plugins_VERSION_MAJOR=1
+keepass-plugins_VERSION_MINOR=0
+keepass-plugins_VERSION_PATCH=0
