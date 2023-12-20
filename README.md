@@ -1,7 +1,7 @@
-# RepoName
+# keepass-plugins
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/keepass-plugins
 ```
